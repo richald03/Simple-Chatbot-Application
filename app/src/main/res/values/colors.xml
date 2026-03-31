@@ -1,0 +1,33 @@
+<resources>
+    <color name="themeBluePrimary">#2563EB</color>
+    <color name="themeBlueSecondary">#60A5FA</color>
+    <color name="themeBlueDeep">#1D4ED8</color>
+
+    <color name="primary">#2563EB</color>
+    <color name="primaryDark">#1D4ED8</color>
+    <color name="accent">#60A5FA</color>
+
+    <color name="background">#F5F7FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surfaceAlt">#EEF4FF</color>
+    <color name="textPrimary">#111827</color>
+    <color name="textSecondary">#6B7280</color>
+
+    <color name="userBubble">#2563EB</color>
+    <color name="userBubbleAlt">#3B82F6</color>
+    <color name="userBubbleStroke">#1D4ED8</color>
+    <color name="botBubble">#FFFFFF</color>
+    <color name="botBubbleStroke">#D6DEEE</color>
+    <color name="userText">#FFFFFF</color>
+    <color name="botText">#111827</color>
+    <color name="timeTextUser">#DBEAFE</color>
+    <color name="timeTextBot">#64748B</color>
+    <color name="userAvatarFill">#DBEAFE</color>
+    <color name="userAvatarText">#1D4ED8</color>
+    <color name="botAvatarFill">#111827</color>
+    <color name="botAvatarText">#F8FAFC</color>
+
+    <color name="divider">#E5E7EB</color>
+    <color name="scrollbarThumb">#94A3B8</color>
+    <color name="scrollbarTrack">#DCE5F4</color>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Simple Chatbot</string>
+    <string name="hint_type_message">Type a message...</string>
+    <string name="hint_waiting_response">Gemini is replying...</string>
+    <string name="send">Send</string>
+    <string name="bot_name">Gemini Bot</string>
+    <string name="user_name">You</string>
+    <string name="user_avatar">Y</string>
+    <string name="bot_avatar">AI</string>
+    <string name="powered_by">Powered by Gemini API</string>
+    <string name="choose_chat_theme">Choose chat theme</string>
+    <string name="theme_blue">Blue</string>
+    <string name="theme_green">Green</string>
+    <string name="theme_rose">Rose</string>
+    <string name="switch_to_dark_mode">Switch to dark mode</string>
+    <string name="switch_to_light_mode">Switch to light mode</string>
+    <string name="welcome_message">Hello! I am your Gemini chatbot. Ask me anything.</string>
+    <string name="error_missing_api_key">Error: Add GEMINI_API_KEY to local.properties before chatting.</string>
+    <string name="error_empty_message">Please type a message</string>
+    <string name="empty_ai_response">(No response from AI)</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="error_generic">Something went wrong.</string>
+    <string name="error_model_not_found">Error 404: Model not found. Check your model name.</string>
+    <string name="error_quota_limit">Quota reached or too many requests. Please wait a bit and check your API plan or billing.</string>
+    <string name="error_authentication">Authentication failed. Check your API key.</string>
+    <string name="error_network">Network error. Please check your internet connection.</string>
+</resources>

@@ -1,0 +1,42 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Build outputs
+**/build/
+captures/
+
+# Android signing and secrets
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+secrets.properties
+*.pem
+*.key
+*.p12
+
+# Environment and local overrides
+.env
+.env.*
+*.local
+*.secret
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+Thumbs.db

@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SimpleChatbot" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryContainer">@color/accent</item>
+        <item name="android:statusBarColor">@color/primaryDark</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

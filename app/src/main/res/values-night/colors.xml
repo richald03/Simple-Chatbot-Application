@@ -1,0 +1,29 @@
+<resources>
+    <color name="primary">#60A5FA</color>
+    <color name="primaryDark">#1D4ED8</color>
+    <color name="accent">#93C5FD</color>
+
+    <color name="background">#0F172A</color>
+    <color name="surface">#111827</color>
+    <color name="surfaceAlt">#172033</color>
+    <color name="textPrimary">#F9FAFB</color>
+    <color name="textSecondary">#9CA3AF</color>
+
+    <color name="userBubble">#2563EB</color>
+    <color name="userBubbleAlt">#3B82F6</color>
+    <color name="userBubbleStroke">#60A5FA</color>
+    <color name="botBubble">#172033</color>
+    <color name="botBubbleStroke">#334155</color>
+    <color name="userText">#FFFFFF</color>
+    <color name="botText">#F9FAFB</color>
+    <color name="timeTextUser">#DBEAFE</color>
+    <color name="timeTextBot">#CBD5E1</color>
+    <color name="userAvatarFill">#1E3A8A</color>
+    <color name="userAvatarText">#DBEAFE</color>
+    <color name="botAvatarFill">#E2E8F0</color>
+    <color name="botAvatarText">#0F172A</color>
+
+    <color name="divider">#374151</color>
+    <color name="scrollbarThumb">#64748B</color>
+    <color name="scrollbarTrack">#1E293B</color>
+</resources>
